@@ -6,6 +6,7 @@ public class ex01{
         int n1, n2, soma;
 
         Scanner sc = new Scanner(System.in);
+        System.out.println("Olá, mundo!!");
         System.out.println("Digite dois numeros: ");
         n1 = sc.nextInt();
         n2 = sc.nextInt();
